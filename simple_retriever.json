@@ -1,0 +1,936 @@
+{
+  "entries": [
+    {
+      "q": "hello",
+      "a": "Hi there! How can I help you today?",
+      "tokens": [
+        "hello"
+      ]
+    },
+    {
+      "q": "hi",
+      "a": "Hello! Welcome to our AI chatbot. What brings you here?",
+      "tokens": [
+        "hi"
+      ]
+    },
+    {
+      "q": "hey",
+      "a": "Hey! Great to see you. What can I do for you?",
+      "tokens": [
+        "hey"
+      ]
+    },
+    {
+      "q": "good morning",
+      "a": "Good morning! I hope you're having a great day. How can I assist?",
+      "tokens": [
+        "good",
+        "morning"
+      ]
+    },
+    {
+      "q": "good afternoon",
+      "a": "Good afternoon! What can I help you with?",
+      "tokens": [
+        "good",
+        "afternoon"
+      ]
+    },
+    {
+      "q": "good evening",
+      "a": "Good evening! Glad to see you. How can I help?",
+      "tokens": [
+        "good",
+        "evening"
+      ]
+    },
+    {
+      "q": "greetings",
+      "a": "Greetings! I'm here to help with any questions you have.",
+      "tokens": [
+        "greetings"
+      ]
+    },
+    {
+      "q": "howdy",
+      "a": "Howdy! What brings you here today?",
+      "tokens": [
+        "howdy"
+      ]
+    },
+    {
+      "q": "who are you",
+      "a": "I'm an advanced AI chatbot designed to have intelligent conversations and help answer your questions with comprehensive responses.",
+      "tokens": [
+        "who",
+        "are",
+        "you"
+      ]
+    },
+    {
+      "q": "what are you",
+      "a": "I'm an artificial intelligence assistant powered by natural language processing and machine learning algorithms.",
+      "tokens": [
+        "what",
+        "are",
+        "you"
+      ]
+    },
+    {
+      "q": "what is your name",
+      "a": "I'm your AI Assistant. I don't have a specific name, but you can think of me as your conversational companion.",
+      "tokens": [
+        "what",
+        "is",
+        "your",
+        "name"
+      ]
+    },
+    {
+      "q": "introduce yourself",
+      "a": "I'm an AI chatbot with advanced capabilities in understanding context, analyzing sentiment, and generating thoughtful responses.",
+      "tokens": [
+        "introduce",
+        "yourself"
+      ]
+    },
+    {
+      "q": "what can you do",
+      "a": "I can help with information, answer questions, have meaningful conversations, provide advice, and assist with various topics.",
+      "tokens": [
+        "what",
+        "can",
+        "you",
+        "do"
+      ]
+    },
+    {
+      "q": "your capabilities",
+      "a": "I have natural language understanding, sentiment analysis, intent classification, and contextual response generation.",
+      "tokens": [
+        "your",
+        "capabilities"
+      ]
+    },
+    {
+      "q": "are you real",
+      "a": "I'm a software program, not a human, but I can have real conversations and provide helpful responses.",
+      "tokens": [
+        "are",
+        "you",
+        "real"
+      ]
+    },
+    {
+      "q": "what is python",
+      "a": "Python is a high-level programming language known for its simplicity and readability. It's used in web development, data science, machine learning, and automation.",
+      "tokens": [
+        "what",
+        "is",
+        "python"
+      ]
+    },
+    {
+      "q": "what is ai",
+      "a": "AI stands for Artificial Intelligence, which refers to computer systems designed to perform tasks that typically require human intelligence.",
+      "tokens": [
+        "what",
+        "is",
+        "ai"
+      ]
+    },
+    {
+      "q": "what is machine learning",
+      "a": "Machine learning is a subset of AI where systems learn from data and improve their performance without being explicitly programmed.",
+      "tokens": [
+        "what",
+        "is",
+        "machine",
+        "learning"
+      ]
+    },
+    {
+      "q": "what is deep learning",
+      "a": "Deep learning uses neural networks with multiple layers to process complex data and learn sophisticated patterns.",
+      "tokens": [
+        "what",
+        "is",
+        "deep",
+        "learning"
+      ]
+    },
+    {
+      "q": "what is nlp",
+      "a": "NLP stands for Natural Language Processing, which enables computers to understand and process human language.",
+      "tokens": [
+        "what",
+        "is",
+        "nlp"
+      ]
+    },
+    {
+      "q": "what is a database",
+      "a": "A database is an organized collection of structured data that can be easily accessed, managed, and updated.",
+      "tokens": [
+        "what",
+        "is",
+        "database"
+      ]
+    },
+    {
+      "q": "what is javascript",
+      "a": "JavaScript is a programming language primarily used for creating interactive web applications and frontend functionality.",
+      "tokens": [
+        "what",
+        "is",
+        "javascript"
+      ]
+    },
+    {
+      "q": "what is a framework",
+      "a": "A framework is a set of pre-built tools and libraries that help developers build applications more efficiently.",
+      "tokens": [
+        "what",
+        "is",
+        "framework"
+      ]
+    },
+    {
+      "q": "what is photosynthesis",
+      "a": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce oxygen and glucose for energy.",
+      "tokens": [
+        "what",
+        "is",
+        "photosynthesis"
+      ]
+    },
+    {
+      "q": "what is the solar system",
+      "a": "The solar system consists of the sun and all objects that orbit it, including planets, moons, asteroids, and comets.",
+      "tokens": [
+        "what",
+        "is",
+        "the",
+        "solar",
+        "system"
+      ]
+    },
+    {
+      "q": "what are atoms",
+      "a": "Atoms are the smallest units of matter made up of protons, neutrons, and electrons.",
+      "tokens": [
+        "what",
+        "are",
+        "atoms"
+      ]
+    },
+    {
+      "q": "what is gravity",
+      "a": "Gravity is a fundamental force that attracts objects with mass toward each other, keeping us on the ground and planets in orbit.",
+      "tokens": [
+        "what",
+        "is",
+        "gravity"
+      ]
+    },
+    {
+      "q": "what is evolution",
+      "a": "Evolution is the process by which living organisms change and adapt over time through natural selection.",
+      "tokens": [
+        "what",
+        "is",
+        "evolution"
+      ]
+    },
+    {
+      "q": "what are ecosystems",
+      "a": "Ecosystems are communities of organisms interacting with their physical environment.",
+      "tokens": [
+        "what",
+        "are",
+        "ecosystems"
+      ]
+    },
+    {
+      "q": "how do i stay healthy",
+      "a": "To stay healthy, exercise regularly, eat a balanced diet, sleep well, manage stress, and stay hydrated.",
+      "tokens": [
+        "how",
+        "do",
+        "stay",
+        "healthy"
+      ]
+    },
+    {
+      "q": "what is nutrition",
+      "a": "Nutrition refers to the nutrients your body needs to function properly, including proteins, carbohydrates, fats, vitamins, and minerals.",
+      "tokens": [
+        "what",
+        "is",
+        "nutrition"
+      ]
+    },
+    {
+      "q": "how much water should i drink",
+      "a": "Most experts recommend drinking about 8 glasses of water daily, though individual needs may vary.",
+      "tokens": [
+        "how",
+        "much",
+        "water",
+        "should",
+        "drink"
+      ]
+    },
+    {
+      "q": "what is meditation",
+      "a": "Meditation is a practice of focusing your mind to achieve mental clarity, relaxation, and emotional balance.",
+      "tokens": [
+        "what",
+        "is",
+        "meditation"
+      ]
+    },
+    {
+      "q": "what are vitamins",
+      "a": "Vitamins are organic compounds essential for various body functions, growth, and disease prevention.",
+      "tokens": [
+        "what",
+        "are",
+        "vitamins"
+      ]
+    },
+    {
+      "q": "what is entrepreneurship",
+      "a": "Entrepreneurship is the process of creating and running your own business ventures.",
+      "tokens": [
+        "what",
+        "is",
+        "entrepreneurship"
+      ]
+    },
+    {
+      "q": "how do i find a job",
+      "a": "You can find jobs through job boards, networking, company websites, recruiters, and professional connections.",
+      "tokens": [
+        "how",
+        "do",
+        "find",
+        "job"
+      ]
+    },
+    {
+      "q": "what is project management",
+      "a": "Project management is planning, organizing, and overseeing tasks and resources to achieve specific goals.",
+      "tokens": [
+        "what",
+        "is",
+        "project",
+        "management"
+      ]
+    },
+    {
+      "q": "what is marketing",
+      "a": "Marketing is the process of promoting and selling products or services to target customers.",
+      "tokens": [
+        "what",
+        "is",
+        "marketing"
+      ]
+    },
+    {
+      "q": "what makes a good leader",
+      "a": "Good leaders communicate effectively, make decisions, inspire others, and take responsibility.",
+      "tokens": [
+        "what",
+        "makes",
+        "good",
+        "leader"
+      ]
+    },
+    {
+      "q": "how do i write a resume",
+      "a": "A good resume includes your contact info, professional summary, work experience, education, and skills.",
+      "tokens": [
+        "how",
+        "do",
+        "write",
+        "resume"
+      ]
+    },
+    {
+      "q": "how do i improve my memory",
+      "a": "To improve memory, practice regularly, get adequate sleep, stay mentally active, and use memory techniques.",
+      "tokens": [
+        "how",
+        "do",
+        "improve",
+        "my",
+        "memory"
+      ]
+    },
+    {
+      "q": "what is the best way to study",
+      "a": "Effective study includes active recall, spaced repetition, understanding concepts, and practicing problems.",
+      "tokens": [
+        "what",
+        "is",
+        "the",
+        "best",
+        "way",
+        "to",
+        "study"
+      ]
+    },
+    {
+      "q": "how do i learn faster",
+      "a": "To learn faster, focus deeply, break information into chunks, teach others, and apply what you learn.",
+      "tokens": [
+        "how",
+        "do",
+        "learn",
+        "faster"
+      ]
+    },
+    {
+      "q": "what is critical thinking",
+      "a": "Critical thinking is analyzing information objectively to make well-informed decisions.",
+      "tokens": [
+        "what",
+        "is",
+        "critical",
+        "thinking"
+      ]
+    },
+    {
+      "q": "how do i improve my writing",
+      "a": "Improve writing by reading often, practicing regularly, getting feedback, and editing carefully.",
+      "tokens": [
+        "how",
+        "do",
+        "improve",
+        "my",
+        "writing"
+      ]
+    },
+    {
+      "q": "what is art",
+      "a": "Art is human creative expression through visual, performing, or literary means.",
+      "tokens": [
+        "what",
+        "is",
+        "art"
+      ]
+    },
+    {
+      "q": "how do i draw better",
+      "a": "Practice regularly, study anatomy, use references, take courses, and don't be afraid to make mistakes.",
+      "tokens": [
+        "how",
+        "do",
+        "draw",
+        "better"
+      ]
+    },
+    {
+      "q": "what makes a good story",
+      "a": "Good stories have compelling characters, clear plots, conflict, resolution, and emotional resonance.",
+      "tokens": [
+        "what",
+        "makes",
+        "good",
+        "story"
+      ]
+    },
+    {
+      "q": "what is music theory",
+      "a": "Music theory is the study of how music works, including notes, scales, harmonies, and composition.",
+      "tokens": [
+        "what",
+        "is",
+        "music",
+        "theory"
+      ]
+    },
+    {
+      "q": "what should i pack for a trip",
+      "a": "Pack essentials like ID, tickets, clothes, toiletries, chargers, medications, and important documents.",
+      "tokens": [
+        "what",
+        "should",
+        "pack",
+        "for",
+        "trip"
+      ]
+    },
+    {
+      "q": "how do i stay safe while traveling",
+      "a": "Stay aware of surroundings, keep valuables secure, research destinations, use trusted transportation.",
+      "tokens": [
+        "how",
+        "do",
+        "stay",
+        "safe",
+        "while",
+        "traveling"
+      ]
+    },
+    {
+      "q": "what are cultural differences",
+      "a": "Cultural differences include variations in customs, beliefs, languages, and social norms between groups.",
+      "tokens": [
+        "what",
+        "are",
+        "cultural",
+        "differences"
+      ]
+    },
+    {
+      "q": "what is cooking",
+      "a": "Cooking is preparing food using heat through methods like baking, frying, boiling, or grilling.",
+      "tokens": [
+        "what",
+        "is",
+        "cooking"
+      ]
+    },
+    {
+      "q": "how do i cook better",
+      "a": "Improve cooking by following recipes, practicing techniques, tasting as you go, and trying new ingredients.",
+      "tokens": [
+        "how",
+        "do",
+        "cook",
+        "better"
+      ]
+    },
+    {
+      "q": "what is a balanced diet",
+      "a": "A balanced diet includes appropriate amounts of proteins, carbs, fats, vegetables, and fruits.",
+      "tokens": [
+        "what",
+        "is",
+        "balanced",
+        "diet"
+      ]
+    },
+    {
+      "q": "what are the benefits of exercise",
+      "a": "Exercise improves physical health, mental wellbeing, energy levels, and prevents diseases.",
+      "tokens": [
+        "what",
+        "are",
+        "the",
+        "benefits",
+        "of",
+        "exercise"
+      ]
+    },
+    {
+      "q": "what is cardio",
+      "a": "Cardio is exercise that elevates your heart rate, improving cardiovascular health and endurance.",
+      "tokens": [
+        "what",
+        "is",
+        "cardio"
+      ]
+    },
+    {
+      "q": "how do i build muscle",
+      "a": "Build muscle through strength training, adequate protein, rest, and consistent progressive overload.",
+      "tokens": [
+        "how",
+        "do",
+        "build",
+        "muscle"
+      ]
+    },
+    {
+      "q": "how do i make friends",
+      "a": "Make friends by joining groups with shared interests, being friendly, listening actively, and staying in touch.",
+      "tokens": [
+        "how",
+        "do",
+        "make",
+        "friends"
+      ]
+    },
+    {
+      "q": "how do i handle stress",
+      "a": "Handle stress through exercise, meditation, talking to others, proper sleep, and solving problems.",
+      "tokens": [
+        "how",
+        "do",
+        "handle",
+        "stress"
+      ]
+    },
+    {
+      "q": "what is empathy",
+      "a": "Empathy is understanding and sharing the feelings of others.",
+      "tokens": [
+        "what",
+        "is",
+        "empathy"
+      ]
+    },
+    {
+      "q": "how do i improve my relationships",
+      "a": "Improve relationships through communication, listening, trust, respect, and spending quality time.",
+      "tokens": [
+        "how",
+        "do",
+        "improve",
+        "my",
+        "relationships"
+      ]
+    },
+    {
+      "q": "what is climate change",
+      "a": "Climate change is long-term shifts in global temperatures and weather patterns, largely due to human activities.",
+      "tokens": [
+        "what",
+        "is",
+        "climate",
+        "change"
+      ]
+    },
+    {
+      "q": "how can i be more eco-friendly",
+      "a": "Reduce, reuse, recycle, use sustainable products, save water and energy, and support green initiatives.",
+      "tokens": [
+        "how",
+        "can",
+        "be",
+        "more",
+        "eco",
+        "friendly"
+      ]
+    },
+    {
+      "q": "what is renewable energy",
+      "a": "Renewable energy comes from natural sources that replenish, like solar, wind, hydro, and geothermal.",
+      "tokens": [
+        "what",
+        "is",
+        "renewable",
+        "energy"
+      ]
+    },
+    {
+      "q": "what is budgeting",
+      "a": "Budgeting is planning how to spend and save your money to reach financial goals.",
+      "tokens": [
+        "what",
+        "is",
+        "budgeting"
+      ]
+    },
+    {
+      "q": "how do i save money",
+      "a": "Save money by tracking expenses, cutting unnecessary costs, setting savings goals, and automating savings.",
+      "tokens": [
+        "how",
+        "do",
+        "save",
+        "money"
+      ]
+    },
+    {
+      "q": "what is investing",
+      "a": "Investing is putting money into assets like stocks, bonds, or real estate to grow your wealth.",
+      "tokens": [
+        "what",
+        "is",
+        "investing"
+      ]
+    },
+    {
+      "q": "what is cryptocurrency",
+      "a": "Cryptocurrency is digital currency using encryption, like Bitcoin and Ethereum.",
+      "tokens": [
+        "what",
+        "is",
+        "cryptocurrency"
+      ]
+    },
+    {
+      "q": "help",
+      "a": "I'm here to help! Feel free to ask me questions about any topic, and I'll provide the most helpful response possible.",
+      "tokens": [
+        "help"
+      ]
+    },
+    {
+      "q": "can you help me",
+      "a": "Of course! I'd be happy to help. Just let me know what you need assistance with.",
+      "tokens": [
+        "can",
+        "you",
+        "help",
+        "me"
+      ]
+    },
+    {
+      "q": "i need help",
+      "a": "No problem! I'm here to assist. What do you need help with?",
+      "tokens": [
+        "need",
+        "help"
+      ]
+    },
+    {
+      "q": "assist me",
+      "a": "Absolutely! I'm available to help with questions, explanations, advice, and much more.",
+      "tokens": [
+        "assist",
+        "me"
+      ]
+    },
+    {
+      "q": "thank you",
+      "a": "You're welcome! Happy to help anytime. Is there anything else?",
+      "tokens": [
+        "thank",
+        "you"
+      ]
+    },
+    {
+      "q": "thanks",
+      "a": "My pleasure! Feel free to ask me anything else.",
+      "tokens": [
+        "thanks"
+      ]
+    },
+    {
+      "q": "appreciate",
+      "a": "Glad I could assist! What else can I help you with?",
+      "tokens": [
+        "appreciate"
+      ]
+    },
+    {
+      "q": "thank you so much",
+      "a": "You're very welcome! I'm here to help whenever you need.",
+      "tokens": [
+        "thank",
+        "you",
+        "so",
+        "much"
+      ]
+    },
+    {
+      "q": "yes",
+      "a": "Great! Let's proceed with that.",
+      "tokens": [
+        "yes"
+      ]
+    },
+    {
+      "q": "no",
+      "a": "I understand. What would you prefer instead?",
+      "tokens": [
+        "no"
+      ]
+    },
+    {
+      "q": "i agree",
+      "a": "Perfect! We're on the same page.",
+      "tokens": [
+        "agree"
+      ]
+    },
+    {
+      "q": "i disagree",
+      "a": "That's fair. Could you tell me more about your perspective?",
+      "tokens": [
+        "disagree"
+      ]
+    },
+    {
+      "q": "goodbye",
+      "a": "Goodbye! It was great talking with you. Feel free to return anytime.",
+      "tokens": [
+        "goodbye"
+      ]
+    },
+    {
+      "q": "bye",
+      "a": "See you later! Have a wonderful day.",
+      "tokens": [
+        "bye"
+      ]
+    },
+    {
+      "q": "see you",
+      "a": "Take care! Come back if you need anything.",
+      "tokens": [
+        "see",
+        "you"
+      ]
+    },
+    {
+      "q": "farewell",
+      "a": "Farewell! I enjoyed our conversation. Until next time!",
+      "tokens": [
+        "farewell"
+      ]
+    },
+    {
+      "q": "exit",
+      "a": "Thanks for chatting with me. Goodbye!",
+      "tokens": [
+        "exit"
+      ]
+    },
+    {
+      "q": "teach me",
+      "a": "I'd be happy to teach you! What would you like to learn about?",
+      "tokens": [
+        "teach",
+        "me"
+      ]
+    },
+    {
+      "q": "explain",
+      "a": "I'll do my best to explain. Can you be more specific about what you'd like to know?",
+      "tokens": [
+        "explain"
+      ]
+    },
+    {
+      "q": "how do i",
+      "a": "That's a great question! Here's how you can approach it...",
+      "tokens": [
+        "how",
+        "do"
+      ]
+    },
+    {
+      "q": "tell me about",
+      "a": "I'd love to tell you about that. Let me provide some useful information.",
+      "tokens": [
+        "tell",
+        "me",
+        "about"
+      ]
+    },
+    {
+      "q": "what does it mean",
+      "a": "That's a good question! Let me explain what that means.",
+      "tokens": [
+        "what",
+        "does",
+        "it",
+        "mean"
+      ]
+    },
+    {
+      "q": "i have a problem",
+      "a": "I'm sorry to hear that. Can you tell me more about the problem so I can help?",
+      "tokens": [
+        "have",
+        "problem"
+      ]
+    },
+    {
+      "q": "something is wrong",
+      "a": "Let's work through this together. Can you describe what's going wrong?",
+      "tokens": [
+        "something",
+        "is",
+        "wrong"
+      ]
+    },
+    {
+      "q": "how can i fix",
+      "a": "Here are some steps that might help fix that issue...",
+      "tokens": [
+        "how",
+        "can",
+        "fix"
+      ]
+    },
+    {
+      "q": "what's the solution",
+      "a": "Let me think about that. Here are some possible solutions...",
+      "tokens": [
+        "what",
+        "the",
+        "solution"
+      ]
+    },
+    {
+      "q": "how are you",
+      "a": "I'm functioning perfectly! Thanks for asking. How are you doing?",
+      "tokens": [
+        "how",
+        "are",
+        "you"
+      ]
+    },
+    {
+      "q": "how's it going",
+      "a": "I'm doing great, thanks for asking! How about you?",
+      "tokens": [
+        "how",
+        "it",
+        "going"
+      ]
+    },
+    {
+      "q": "what's new",
+      "a": "Not much on my end, but I'm interested in what's new with you!",
+      "tokens": [
+        "what",
+        "new"
+      ]
+    },
+    {
+      "q": "tell me something interesting",
+      "a": "Here's something interesting: artificial intelligence is advancing rapidly every day!",
+      "tokens": [
+        "tell",
+        "me",
+        "something",
+        "interesting"
+      ]
+    },
+    {
+      "q": "i'm sad",
+      "a": "I'm sorry you're feeling that way. Would you like to talk about what's bothering you?",
+      "tokens": [
+        "sad"
+      ]
+    },
+    {
+      "q": "i'm happy",
+      "a": "That's wonderful! What's making you so happy?",
+      "tokens": [
+        "happy"
+      ]
+    },
+    {
+      "q": "i'm confused",
+      "a": "Don't worry, I can help clarify things. What specifically is confusing?",
+      "tokens": [
+        "confused"
+      ]
+    },
+    {
+      "q": "i'm frustrated",
+      "a": "I understand. Frustration is normal. Let's work through this together.",
+      "tokens": [
+        "frustrated"
+      ]
+    },
+    {
+      "q": "i'm excited",
+      "a": "That's great enthusiasm! What are you excited about?",
+      "tokens": [
+        "excited"
+      ]
+    }
+  ],
+  "num_entries": 104
+}
